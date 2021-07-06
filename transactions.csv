@@ -2,3 +2,7 @@ date,amount,txType,accountFrom,comment,createdBy
 7/6/2021,1200,AOTC,Dan,Test,Dan Kochetov
 7/6/2021,1210,AOTC,Dan,Test2,Dan Kochetov
 7/6/2021,1220,AOTC,Dan,Test3,Dan Kochetov
+7/6/2021,1200,Income,Dan,Test,Dan Kochetov
+7/6/2021,1300,AOTC,Dan,Test 2,Dan Kochetov
+7/6/2021,100,Withdrawal,Dan,Test withdrawal,Dan Kochetov
+7/6/2021,200,Transfer,Alex,Test transfer,Dan Kochetov
