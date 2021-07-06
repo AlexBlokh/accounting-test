@@ -9,3 +9,4 @@ date,amount,txType,accountFrom,comment,createdBy
 7/1/2021,500,Income,Dan,test income,Dan Kochetov
 7/6/2021,300,Transfer,Alex,Test transfer 123,Dan Kochetov
 7/1/2021,400,Income,Dan,test income 345,Dan Kochetov
+7/6/2021,123,Income,Alex,test,Dan Kochetov
