@@ -1,0 +1,4 @@
+id,date,amount,txType,from,to,comment,createdBy
+1,7/16/2021,1234,AOTC Salary,Alex,,,Dan Kochetov
+2,7/16/2021,456,Transfer,Dan,,,Dan Kochetov
+3,7/16/2021,10000,Withdrawal,Dan,,,Dan Kochetov
